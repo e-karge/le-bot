@@ -1,0 +1,1 @@
+28 23 5,19 * * ID=letsencrypt-update /update-certificates.sh
